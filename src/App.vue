@@ -2,18 +2,31 @@
   <v-app>
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center">
-        <v-img src="@/assets/lh.png" max-width="55px" contain class="mr-3" />
+        <v-img src="@/assets/lh.png" max-width="55px" contain class="mr-2" />
         <h1>勞校中學開放日</h1>
       </div>
 
       <v-spacer />
 
-      <v-img src="@/assets/70.png" max-width="55px" contain class="mr-3" />
+      <v-img
+        src="@/assets/70.png"
+        max-width="55px"
+        contain
+        class="mr-3"
+        v-show="$vuetify.breakpoint.smAndUp"
+      />
     </v-app-bar>
 
     <v-main>
-      <v-container fluid fill-height>
+      <v-container fluid :fill-height="$vuetify.breakpoint.mdAndUp">
         <v-row class="align-center justify-center px-3">
+          <v-col
+            cols="12"
+            v-if="$vuetify.breakpoint.xs"
+            class="pink white--text"
+          >
+            <h3>使用横屏瀏覽可獲更佳體驗</h3>
+          </v-col>
           <v-col cols="12">
             <v-img
               v-for="i in [1, 2, 3, 6]"
@@ -24,28 +37,33 @@
               v-show="i === curFloor"
             />
           </v-col>
-          <v-col cols="8" class="d-flex flex-column justify-center mt-5">
-            <div class="d-flex justify-space-around">
-              <v-btn
-                v-for="i in 6"
-                :key="i"
-                fab
-                x-large
-                :disabled="i === 4 || i === 5"
-                :color="i === curFloor ? 'accent lighten-1' : 'primary'"
-                class="mb-5 floor-btn"
-                @click="curFloor = i"
-              >
-                {{ i }}
-              </v-btn>
-            </div>
+          <v-col cols="12">
+            <h3>
+              點擊下方按鈕選擇樓層
+            </h3>
+          </v-col>
+          <v-col cols="12" md="auto">
+            <v-row>
+              <v-col v-for="i in 6" :key="i" cols="4" sm>
+                <v-btn
+                  fab
+                  x-large
+                  :disabled="i === 4 || i === 5"
+                  :color="i === curFloor ? 'accent lighten-2' : 'primary'"
+                  class="mb-5 floor-btn"
+                  @click="curFloor = i"
+                >
+                  {{ i }}
+                </v-btn>
+              </v-col>
+            </v-row>
           </v-col>
         </v-row>
       </v-container>
     </v-main>
 
     <v-footer app color="secondary" dark class="justify-center">
-      <span>Developed by <b>Terry_CCI</b> @ 勞校中學電腦科組</span>
+      <span>By <b>勞校中學電腦科組</b></span>
     </v-footer>
   </v-app>
 </template>
