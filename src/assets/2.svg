@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="371.90253mm"
@@ -14,10 +14,41 @@
    viewBox="0 0 371.90253 117.90251"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="2.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       id="linearGradient2799"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#afffff;stop-opacity:1;"
+         offset="0"
+         id="stop2797" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3241-4"
+       id="pattern3259"
+       patternTransform="matrix(0.1093014,0,0,0.1093014,97.458334,342.46052)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="151.18111"
+       height="151.18111"
+       patternTransform="translate(-229.00158,271.76692)"
+       id="pattern3241-4">
+      <path
+         style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 4.5622933e-6,151.18111 H 75.590556 L 151.18111,75.590556 V 4.5622933e-6 Z"
+         id="path3153-20"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 4.5622933e-6,4.5622933e-6 V 75.590556 L 75.590556,4.5622933e-6 Z"
+         id="path3155-8"
+         sodipodi:nodetypes="cccc" />
+    </pattern>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,18 +56,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="360.98613"
-     inkscape:cy="261.1437"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="526.84676"
+     inkscape:cy="219.30922"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid910"
@@ -86,7 +118,7 @@
        y="308.06467"
        ry="0" />
     <rect
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#afffff;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect829"
        width="44.979164"
        height="26.458317"
@@ -107,7 +139,7 @@
        x="81.583351"
        y="405.96048" />
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7f3f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a7f3f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect878"
        width="113.77084"
        height="55.562523"
@@ -115,7 +147,7 @@
        y="342.46048" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0843d0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0843d0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="146.38974"
        y="321.61386"
        id="text931-5"><tspan
@@ -123,11 +155,11 @@
          id="tspan929-6"
          x="146.38974"
          y="321.61386"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">創客小棧</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">創客小棧</tspan><tspan
          sodipodi:role="line"
          x="146.38974"
          y="328.91635"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan951">204</tspan></text>
     <rect
        style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -152,14 +184,14 @@
        y="308.06467" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="102.75691"
        y="324.03094"
        id="text931-5-5"><tspan
          sodipodi:role="line"
          x="102.75691"
          y="324.03094"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan951-2">樓道</tspan></text>
     <rect
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:#bed2f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -170,39 +202,34 @@
        y="405.96048" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="227.11107"
        y="417.95804"
        id="text931-5-5-9"><tspan
          sodipodi:role="line"
          x="227.11107"
          y="417.95804"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan951-2-9">樓道</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="417.60416"
        y="407.28342"
-       id="text1097"><tspan
-         sodipodi:role="line"
-         id="tspan1095"
-         x="417.60416"
-         y="413.68384"
-         style="line-height:0.69;stroke-width:0.26458332" /></text>
+       id="text1097" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.69;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="231.71028"
        y="328.66461"
        id="text931-5-5-5"><tspan
          sodipodi:role="line"
          x="231.71028"
          y="328.66461"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:0.69;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan951-2-5">電梯</tspan></text>
     <rect
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#afffff;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect829-9"
        width="44.979168"
        height="26.458336"
@@ -210,7 +237,7 @@
        y="308.06467" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0843d0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0843d0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="191.29637"
        y="316.26004"
        id="text931-5-9"><tspan
@@ -218,19 +245,19 @@
          id="tspan929-6-7"
          x="191.29637"
          y="316.26004"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:0.75;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">Fun Fun</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:0.75;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">Fun Fun</tspan><tspan
          sodipodi:role="line"
          x="191.29637"
          y="324.19754"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:0.75;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:0.75;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan848">English</tspan><tspan
          sodipodi:role="line"
          x="191.29637"
          y="332.13504"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:0.75;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:0.75;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan951-24">205</tspan></text>
     <rect
-       style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#afffff;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect825-2"
        width="37.041668"
        height="37.041649"
@@ -252,7 +279,7 @@
        y="382.14801" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0843d0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0843d0;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        x="63.20084"
        y="356.23364"
        id="text931-5-4"><tspan
@@ -260,16 +287,16 @@
          id="tspan929-6-2"
          x="63.20084"
          y="356.23364"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">感受</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:1;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none">感受</tspan><tspan
          sodipodi:role="line"
          x="63.20084"
          y="366.81699"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:1;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan846">綠色澳門</tspan><tspan
          sodipodi:role="line"
          x="63.20084"
          y="377.4003"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;line-height:1;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';text-align:center;text-anchor:middle;fill:#0843d0;fill-opacity:1;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan951-9">204</tspan></text>
     <rect
        style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:#2dc8f7;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -278,5 +305,25 @@
        height="18.520834"
        x="115.97919"
        y="405.96048" />
+    <rect
+       style="stroke:none;fill:url(#pattern3241)"
+       transform="matrix(0.26458333,0,0,0.26458333,43.798753,307.32173)"
+       width="151.18111"
+       height="151.18111"
+       x="-229.00158"
+       y="271.76692"
+       id="rect3245" />
+    <rect
+       style="stroke:none;fill:url(#pattern3199)"
+       transform="matrix(0.26458333,0,0,0.26458333,43.798753,307.32173)"
+       width="152.88993"
+       height="152.90505"
+       x="-100.42624"
+       y="492.9849"
+       id="rect3203" />
+    <path
+       id="rect3245-4"
+       style="fill:url(#pattern3259);stroke:none;stroke-width:0.752546"
+       d="m 97.458351,342.46051 v 55.5625 H 211.22918 v -55.5625 z" />
   </g>
 </svg>

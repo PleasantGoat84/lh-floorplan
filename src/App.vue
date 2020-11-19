@@ -15,7 +15,14 @@
       <v-container fluid fill-height>
         <v-row class="align-center justify-center px-3">
           <v-col cols="12">
-            <v-img :src="require(`@/assets/${curFloor}.svg`)" contain />
+            <v-img
+              v-for="i in [1, 2, 3, 6]"
+              :key="i"
+              :src="require(`@/assets/${i}.svg`)"
+              contain
+              eager
+              v-show="i === curFloor"
+            />
           </v-col>
           <v-col cols="8" class="d-flex flex-column justify-center mt-5">
             <div class="d-flex justify-space-around">
