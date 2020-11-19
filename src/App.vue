@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app color="primary" dark :absolute="$vuetify.breakpoint.sm">
       <div class="d-flex align-center">
         <v-img src="@/assets/lh.png" max-width="55px" contain class="mr-2" />
         <h1>勞校中學開放日</h1>
@@ -62,7 +62,13 @@
       </v-container>
     </v-main>
 
-    <v-footer app color="secondary" dark class="justify-center">
+    <v-footer
+      app
+      color="secondary"
+      dark
+      class="justify-center"
+      :absolute="$vuetify.breakpoint.sm"
+    >
       <span>By <b>勞校中學電腦科組</b></span>
     </v-footer>
   </v-app>
